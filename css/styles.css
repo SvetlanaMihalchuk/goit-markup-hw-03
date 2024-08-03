@@ -61,7 +61,7 @@ img {
 
 .header .container {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
 }
 .navigation {
   display: flex;
@@ -76,13 +76,13 @@ img {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+}
+
+.logo-header {
   display: flex;
   gap: 0px;
   width: 115px;
   height: 24px;
-}
-
-.logo.logo-header {
   margin-right: 76px;
 }
 .logo-studio {
@@ -337,11 +337,8 @@ img {
   padding: 100px 0;
 }
 
-.logo .footer-logo {
-  display: inline-block;
-}
-
 .footer-logo {
+  display: inline-block;
   margin-bottom: 16px;
 }
 .footer-logo-studio {
