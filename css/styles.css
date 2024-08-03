@@ -106,7 +106,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding: 24px 0;
 }
 .navigation-menu:hover,
 .navigation-menu:focus {
@@ -114,7 +113,6 @@ img {
 }
 .address {
   font-style: normal;
-  padding: 24px 0;
 }
 
 .address-menu {
